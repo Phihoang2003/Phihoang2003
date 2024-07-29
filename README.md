@@ -1,16 +1,66 @@
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100079176166767) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCuo_q6ZQyiEbsPS5anBquKg) 
+<div id="top"></div>
 
-# 💻Tech Stack
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
-# 📊GitHub Stats :
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/vuvandinh123">
+    <img src="images/logo.jpg"  alt="Logo" width="80" height="80">
+  </a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Phihoang2003&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phihoang2003&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <h1 align="center"> Dang Hoang PHi</h1>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <p align="center">
+   Fullstack developer
+    <br />
+    <a href=""><strong>My Home Page »</strong></a>
+    <br />
+    <br />
+    <a href="">Java</a>
+    ·
+    <a href="">Spring Boot</a>
+    ·
+    <a href="">NextJs</a>
+    ·
+    <a href="">ReactJs</a>
+    ·
+    <a href="">Kafka</a>
+  </p>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Phihoang2003&icon=0&color=0)](https://visitcount.itsvg.in)
+## <img width="25" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/waving.gif"> About Me
+
+Hi, I'm Hoang Phi, Full-stack,Ho Chi Minh city.
+
+I am passionate about end-to-end development to create user-friendly websites. With 1 year of experience working with Java, Spring Boot, ReactJS and NextJS. I have developed strong capabilities in these technologies. I pride myself on my ability to quickly learn new skills, work effectively in teams, and communicate well.
+
+You can visit my little corner at <https://hoangphi.id.vn/>
+
+****
+<a href="https://github.com/Phihoang2003">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Phihoang2003&hide_title=true&langs_count=10&hide=G-code&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,convert">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgphilpott&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert">
+    </picture>
+</a>
+<a href="https://github.com/Phihoang2003">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Phihoang2003&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Phihoang2003&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
+    </picture>
+</a>
+
+<a href="https://github.com/Phihoang2003">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Phihoang2003&hide_border=true&theme=dark&background=0e1116">
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jgphilpott&hide_border=true">
+    </picture>
+</a>
+
+<a href="https://github.com/Phihoang2003">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Phihoang2003&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Phihoang2003&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+    </picture>
+</a>
+<p align="right">(<a href="#top">Back to top</a>)</p>
