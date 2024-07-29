@@ -8,7 +8,7 @@
     <img src="images/logo.jpg"  alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center"> Dang Hoang PHi</h1>
+  <h1 align="center"> Dang Hoang Phi</h1>
 
   <p align="center">
    Fullstack developer
