@@ -57,8 +57,11 @@ You can visit my little corner at <https://hoangphi.id.vn/>
     </picture>
 </a>
 
-<a href="https://github.com/Phihoang2003">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phihoang2003&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Graph">
+<a href="https://github.com/vuvandinh123">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vuvandinh123&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vuvandinh123&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+    </picture>
 </a>
 
 
