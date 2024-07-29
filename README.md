@@ -59,8 +59,8 @@ You can visit my little corner at <https://hoangphi.id.vn/>
 
 <a href="https://github.com/Phihoang2003">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Phihoang2003&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Year%20Activity&color=ffffff&bg_color=0e1116">
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Phihoang2003&theme=github-light&area=true&hide_border=true&custom_title=Past%20Year%20Activity">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Phihoang2003&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Phihoang2003&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
     </picture>
 </a>
 <p align="right">(<a href="#top">Back to top</a>)</p>
