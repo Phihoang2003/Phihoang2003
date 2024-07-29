@@ -58,7 +58,8 @@ You can visit my little corner at <https://hoangphi.id.vn/>
 </a>
 
 <a href="https://github.com/Phihoang2003">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Phihoang2003&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph%20for%20Last%20Month" alt="Contribution Graph">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phihoang2003&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Graph">
 </a>
+
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
