@@ -51,5 +51,4 @@
 <a href="https://www.linkedin.com/in/Phihoang2003/" target="blank"><img align="center" src="logos/linked-in.svg" alt="Phihoang2003" height="30" width="40" /></a>
 <a href="https://www.instagram.com/Phihoang2003/" target="blank"><img align="center" src="logos/instagram.svg" alt="Phihoang2003" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/Phihoang2003" target="blank"><img align="center" src="logos/youtube.svg" alt="Hoang Phi" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/Phihoang2003" target="blank"><img align="center" src="logos/leet-code.svg" alt="Phihoang2003" height="30" width="40" /></a>
 </p>
