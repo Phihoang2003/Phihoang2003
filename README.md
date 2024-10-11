@@ -39,7 +39,7 @@
 
 ## <img src="gifs/stat.gif" width="35"><b> Stats </b>
 
-![](https://github-readme-stats.vercel.app/api?username=Phihoang2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Phihoang2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phihoang2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Phihoang2003&&theme=tokyonight)
 
